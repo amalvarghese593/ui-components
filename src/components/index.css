@@ -1,0 +1,19 @@
+.main-container {
+  border: 1px solid red;
+  background-color: aquamarine;
+  height: 100vh;
+  position: relative;
+}
+.footer-container {
+  border: 1px solid blue;
+  background-color: bisque;
+  height: 100px;
+}
+.dialogue-container {
+  border: 1px solid black;
+  background-color: blueviolet;
+  width: 400px;
+  position: fixed;
+  top: 0;
+  right: 0;
+}
